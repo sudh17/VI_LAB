@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Sep 03 19:09:35 EDT 2015
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=Ujjwal_CV.tex
+outputFile=Ujjwal_CV.pdf
+langSpell=en
+markDer=true
+srcDir=
